@@ -1,47 +1,47 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Hola, soy Ezequiel Euward 👋</h1></summary>
-  </ul>
+<!-- Portada Neón Violeta -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=180&section=header&text=Ezequiel%20Euward&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Banner Ezequiel Euward">
 </div>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> Sobre mí
+# ⚡ Ezequiel Euward
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
-
-- 🏫 **Estudios:** `Analista en Sistemas` en [Instituto Cervantes (Córdoba, Argentina)](https://www.cervantes.edu.ar/)
-- 👨‍💻 **Rol actual:** `Full Stack Developer` & `Systems Analyst`
-- 📧 **Contacto:** `ezequieleuwardd@gmail.com`
+> **Full Stack Developer**  
 > *"Crea, innova, inspira 🚀💡"*
 
-<br>
+---
 
-## 🛠️ Mis Habilidades
+👋 ¡Hola! Soy **Ezequiel**, enfocado en desarrollo **Full Stack**. Me dedico a construir aplicaciones web dinámicas y optimizar procesos de desarrollo mediante software.
 
-### 💻 Lenguajes de Programación
-![JavaScript](https://img.shields.io/badge/JavaScript-f7d070?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-387bb6?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-9b4993?style=for-the-badge&logo=csharp&logoColor=white)
+📍 Córdoba, Argentina  
+📧 `ezequiel.euward@exomindset.co`  
 
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-e06c75?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-51afef?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7d070?style=for-the-badge&logo=javascript&logoColor=black)
-![npm](https://img.shields.io/badge/npm-c678dd?style=for-the-badge&logo=npm&logoColor=white)
+---
 
-### ⚙️ Backend & Data
-![Apache Hadoop](https://img.shields.io/badge/Hadoop-56b6c2?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4a6984?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-f2c811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 🟣 Tech Stack & Databases
 
-### 🧰 Herramientas & IDEs
-![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-10002b?style=for-the-badge&logo=javascript&logoColor=f7d070)
+![TypeScript](https://img.shields.io/badge/TypeScript-10002b?style=for-the-badge&logo=typescript&logoColor=c77dff)
+![Node.js](https://img.shields.io/badge/Node.js-10002b?style=for-the-badge&logo=nodedotjs&logoColor=e0aaff)
+![React](https://img.shields.io/badge/React-10002b?style=for-the-badge&logo=react&logoColor=e0aaff)
+![Python](https://img.shields.io/badge/Python-10002b?style=for-the-badge&logo=python&logoColor=c77dff)
+![C#](https://img.shields.io/badge/C%23-10002b?style=for-the-badge&logo=csharp&logoColor=e0aaff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-240046?style=for-the-badge&logo=postgresql&logoColor=c77dff)
+![MySQL](https://img.shields.io/badge/MySQL-240046?style=for-the-badge&logo=mysql&logoColor=e0aaff)
+![Git](https://img.shields.io/badge/Git-240046?style=for-the-badge&logo=git&logoColor=ff9e00)
+![VS Code](https://img.shields.io/badge/VS_Code-240046?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
-### 🖥️ Sistemas Operativos
-![Windows](https://img.shields.io/badge/Windows-00adef?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557c94?style=for-the-badge&logo=kalilinux&logoColor=white)
+---
+
+### 🚀 ExoMindset
+
+En ExoMindset nos enfocamos en escalar y eficientizar la operación de los equipos de trabajo mediante tecnología:
+
+* ⚡ **Optimización de Flujos de Trabajo:** Automatización y digitalización de tareas para reducir tiempos operativos en los equipos.
+* 🛠️ **Estandarización de Procesos:** Implementación de herramientas y software que mejoran la colaboración y reducen cuellos de botella.
+* 🚀 **Sistemas Escalables:** Desarrollo de arquitectura y aplicaciones para acelerar entregas sin sacrificar calidad.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=80&section=footer" alt="Footer Banner">
+</div>
