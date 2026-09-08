@@ -5,8 +5,7 @@
 
 # ⚡ Ezequiel Euward
 
-> **Full Stack Developer**  
-> *"Crea, innova, inspira 🚀💡"*
+> **Full Stack Developer**
 
 ---
 
